@@ -1,4 +1,9 @@
-## Hi there 👋
+# Romain Ginhoux - Développeur Full-Stack
+
+Bienvenue sur mon profil GitHub ! Je suis un développeur full-stack passionné par la création de solutions numériques innovantes. En plus de mes compétences en développement web, j'aime explorer l'univers du jeu vidéo, de la production musicale et du motion design.
+
+
+
 
 <!--
 **Peti6inge/Peti6inge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
