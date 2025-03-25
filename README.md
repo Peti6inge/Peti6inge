@@ -3,7 +3,7 @@
 Bienvenue sur mon profil GitHub ! Je suis un développeur full-stack passionné par la création de solutions numériques innovantes. En plus de mes compétences en développement web, j'aime explorer l'univers du jeu vidéo, de la production musicale et du motion design.
 
 <p align="center">
-  <img src="./20250325_2144_Loop Video_loop_01jq7gsykaejr8az73hthmx5rn.gif" width="300"/>
+  <img src="./20250325_2144_Loop Video_loop_01jq7gsykaejr8az73hthmx5rn_.gif" width="300"/>
 </p>
 
 <!--
