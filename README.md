@@ -15,7 +15,7 @@ I combine strong technical skills with human-centered experiences to bring meani
 
 💡 Self-taught and resourceful, I love learning new technologies and taking on fresh challenges.
 
-<br><br><br>
+<br><br>
 
 ## 🛠️ Tech Stack
 
