@@ -83,7 +83,7 @@ Built in **Unity3D**, this project allowed me to experiment with physics, game l
 
 📧 [romainginhoux@gmail.com](mailto:romainginhoux@gmail.com)  
 📞 +33 6 95 64 44 29  
-📍 Assieu, France  
+📍 France  
 📄 [View my CV](./CV.pdf)
 
 ---
