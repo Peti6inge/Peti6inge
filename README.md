@@ -43,9 +43,9 @@ I combine strong technical skills with human-centered experiences to bring meani
 
 ## 🎮 Featured Project – Cube
 
-<div style="text-align: center;">
+<p align="center">
   <img src="cube.gif" width="300" />
-</div>
+</p>
 
 **Cube** is a personal game development project blending minimalism, challenge and a hint of chaos 👾  
 Built in **Unity3D**, this project allowed me to experiment with physics, game logic, and aesthetic design.
