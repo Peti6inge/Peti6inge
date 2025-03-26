@@ -6,11 +6,7 @@
 
 ## 👨‍💻 About Me
 
-<div align="center" style="display: flex; align-items: center; gap: 20px;">
-
-<table style="border: none;">
-<tr>
-<td style="vertical-align: top; border: none;">
+<img align="right" src="accueil.gif" width="220" style="margin-left: 20px;"/>
 
 I'm a **full-stack developer** with a passion for **coding**, **creation**, and the **digital world**.  
 I combine strong technical skills with human-centered experiences to bring meaningful projects to life.
@@ -18,15 +14,6 @@ I combine strong technical skills with human-centered experiences to bring meani
 🧠 From **psychology** to **computer science**, with a stop in **research**, I've always embraced a curious and creative mindset.
 
 💡 Self-taught and resourceful, I love learning new technologies and taking on fresh challenges.
-
-</td>
-<td style="border: none;">
-  <img src="accueil.gif" width="220" style="border-radius: 12px;"/>
-</td>
-</tr>
-</table>
-
-</div>
 
 
 ---
