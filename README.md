@@ -1,14 +1,11 @@
 <p align="center">
-  <img src="accueil.gif" width="300" />
-</p>
-
-<h1 align="center">👾 Romain Ginhoux</h1>
-
-<p align="center">
   <img src="romainginhoux.gif" width="400"/>
 </p>
 
----
+<p align="center">
+  <img src="accueil.gif" width="300" />
+</p>
+
 
 ## 🧑‍💻 À propos de moi
 
