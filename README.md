@@ -2,79 +2,88 @@
   <img src="romainginhoux.gif" width="400"/>
 </p>
 
-<p align="center">
-  <img src="accueil.gif" width="300" />
-</p>
+---
 
+## 👨‍💻 About Me
 
-## 🧑‍💻 À propos de moi
+<table>
+  <tr>
+    <td>
 
-Développeur full-stack passionné par le **code**, la **création**, et le **monde numérique**, je combine mes compétences techniques et mes expériences humaines pour donner vie à des projets ambitieux.
+I'm a **full-stack developer** with a passion for **coding**, **creation**, and the **digital world**.  
+I combine strong technical skills with human-centered experiences to bring meaningful projects to life.
 
-🎓 De la **psychologie** à l’**informatique** appliquée, en passant par la **recherche**, j’ai toujours cultivé un esprit **curieux**, **créatif**, et **polyvalent**.  
-💡 Autodidacte dans l’âme, je n’hésite jamais à apprendre de nouvelles technos et relever des défis.
+🎓 From **psychology** to **computer science**, with a stop in **research**, I've always embraced a curious and creative mindset.  
+💡 Self-taught and resourceful, I love learning new technologies and taking on fresh challenges.
+
+</td>
+<td>
+  <img src="accueil.gif" width="220"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Compétences techniques
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="technos.gif" width="600"/>
 </p>
 
-- Langages : **Java**, **C#**, **HTML/CSS**, **JavaScript**, **PHP**, **C**
-- Bases de données : **SQL**
-- Outils : **Unity3D**, **Power BI**, **Office 365**, **Git**
-- Cloud & Infra : **Azure**
-- UI/UX : **Adobe After Effects**, **Premiere Pro**
-- Environnement : **PCSoft**, **Visual Studio**, **FL Studio**
+- Languages: **Java**, **C#**, **HTML/CSS**, **JavaScript**, **PHP**, **C**
+- Databases: **SQL**
+- Tools: **Unity3D**, **Power BI**, **Office 365**, **Git**
+- Cloud & Infra: **Azure**
+- Design: **Adobe After Effects**, **Premiere Pro**
+- Environment: **PCSoft**, **Visual Studio**, **FL Studio**
 
 ---
 
-## 🌍 Expériences marquantes
+## 🧪 Professional Experience
 
-- 👨‍💼 **Développeur stagiaire** chez *Faure Transport* (2024)
-- 🔬 **Projet de recherche** UGA sur le **sous-titrage vidéo** (2023)
-- 🌍 **Bénévolat humanitaire** au **Cameroun** et au **Sénégal** :
-  - Accompagnement scolaire, social et entrepreneurial
-
----
-
-## 🎓 Formation
-
-- 🎓 M2 MIASHS – Informatique & Sciences Sociales (UGA Grenoble)
-- 🧠 M1 & Licence de Psychologie (UGA Grenoble)
-- 📐 Classe Prépa MPSI (La Martinière, Lyon)
-- 🎓 Bac S SI – Mention Félicitations du jury
+- 💼 **Intern Developer** at *Faure Transport* (2024)
+- 🧠 **Research Collaborator** – Subtitle study at UGA (2023)
+- 🌍 **Humanitarian Volunteer** in **Cameroon** & **Senegal**
+  - Academic, social, and entrepreneurial support
 
 ---
 
-## 🎨 Centres d’intérêt
+## 🎓 Education
 
-- 🎧 **Production musicale** & **Sound Design**
-- 🎮 **Développement de jeux vidéo**
+- 🎓 Master’s in Computer Science & Social Sciences (UGA Grenoble)
+- 🧠 M1 & Bachelor’s in Clinical Psychology (UGA Grenoble)
+- 📐 MPSI Preparatory Classes (La Martinière, Lyon)
+- 🎓 Science Baccalaureate, Engineering Sciences – *With honors*
+
+---
+
+## 🎨 Interests
+
+- 🎧 **Music production** & **Sound design**
+- 🎮 **Video game development**
 - 🎬 **Motion design / VFX**
-- 🏓 **Tennis de table & Tennis**
-- 🌱 **Formation continue sur MOOC**
+- 🏓 **Table tennis** & **Tennis**
+- 🌱 **Continuous learning via MOOCs**
 
 ---
 
-## 🚀 Mon site web
+## 🌐 Website
 
 🔗 [romainginhoux.fr](https://www.romainginhoux.fr)
 
 ---
 
-## 💬 Me contacter
+## 📬 Contact
 
 📧 [romainginhoux@gmail.com](mailto:romainginhoux@gmail.com)  
-📞 06 95 64 44 29  
+📞 +33 6 95 64 44 29  
 📍 Assieu, France  
-📄 [Voir mon CV](./CV.pdf)
+📄 [View my CV](./CV.pdf)
 
 ---
 
 <p align="center">
   <img src="monkey.gif" width="200" />
 </p>
-<p align="center"><i>Merci de votre visite ! Ce petit singe bosse dur pour apprendre encore plus 🐒💻</i></p>
+<p align="center"><i>Thanks for stopping by! This little monkey is working hard to learn more every day 🐒💻</i></p>
