@@ -2,8 +2,8 @@
   <img src="romainginhoux.gif" width="400"/>
 </p>
 
---- 
- 
+---
+
 ## 👨‍💻 About Me
 
 <img align="right" src="accueil.gif" width="220" style="margin-left: 20px;"/>
