@@ -2,7 +2,6 @@
   <img src="romainginhoux.gif" width="400"/>
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me
